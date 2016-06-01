@@ -1,0 +1,13 @@
+{
+    "name": "tomcat/yeopress",
+    "require": {
+        "composer/composer": "^1.1",
+        "timber/timber": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "developer-lindner",
+            "email": "lindner@luum.ms"
+        }
+    ]
+}

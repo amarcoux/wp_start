@@ -1,0 +1,33 @@
+{
+  "name": "Leifeld-Theme",
+  "version": "0.0.2",
+  "description": "",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "Yeoman",
+    "Wordpress",
+    "YeoPress",
+    "Template"
+  ],
+  "author": "Thomas Lindner",
+  "license": "BSD",
+  "devDependencies": {
+    "bower": "~1.7.1",
+    "glob": "~6.0.1",
+    "grunt": "~0.4.1",
+    "grunt-autoprefixer": "^3.0.1",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-imagemin": "~1.0.0",
+    "grunt-contrib-jshint": "~0.11.3",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-sass": "^1.1.0",
+    "grunt-hashres": "*",
+    "grunt-contrib-coffee": "^0.13.0"
+  },
+  "dependencies": {
+    "load-grunt-tasks": "*"
+  }
+}
